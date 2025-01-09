@@ -47,7 +47,7 @@ const AddBooks = () => {
                             <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
 
                                 <label htmlFor="" className="form-label">Published Date</label>
-                                <input type="text" className="form-control" />
+                                <input type="date" className="form-control" />
 
                             </div>
 
